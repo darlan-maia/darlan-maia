@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+É formado em matemática (bacharelado) pela Universidade Federal da Bahia (UFBA) e mestrado incompleto pela mesma instituição. Atualmente, trabalha como desenvolvedor backend utilizando linguagem de programação Java com frameworks Spring Boot e JUnit nas versões 4 e 5.
+Segue estudando outras tecnologias como JavaScript, CSS e Angular a fim de aproveitar as diversas oportunidades do mercado.
