@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-É formado em matemática (bacharelado) pela Universidade Federal da Bahia (UFBA) e mestrado incompleto pela mesma instituição. Atualmente, trabalha como desenvolvedor backend utilizando linguagem de programação Java com frameworks Spring Boot e JUnit nas versões 4 e 5.
-Segue estudando outras tecnologias como JavaScript, CSS e Angular a fim de aproveitar as diversas oportunidades do mercado.
+Sou formado em matemática (bacharelado) pela Universidade Federal da Bahia (UFBA) e mestrado incompleto pela mesma instituição. Atualmente, trabalho como desenvolvedor backend utilizando linguagem de programação Java e frameworks Spring Boot para desenvolvimento de REST APIs (microsserviços) e JUnit nas versões 4 e 5 para testes unitários.
+Sigo estudando outras tecnologias como JavaScript, CSS e Angular a fim de aproveitar melhor as oportunidades do mercado.
